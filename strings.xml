@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自动点击助手</string>
+    <string name="accessibility_description">执行用户自行设置的屏幕点击步骤。</string>
+</resources>
