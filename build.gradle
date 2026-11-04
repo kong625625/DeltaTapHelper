@@ -1,3 +1,14 @@
-plugins {
-    id 'com.android.application' version '8.7.3' apply false
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.deltatap.helper'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.deltatap.helper'
+        minSdk 26
+        targetSdk 28
+        versionCode 1
+        versionName '1.0'
+    }
 }
