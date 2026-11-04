@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">三角洲收菜助手</string>
+    <string name="accessibility_description">按用户设置的屏幕位置执行点击。不会读取游戏内存或修改游戏文件。</string>
+</resources>
